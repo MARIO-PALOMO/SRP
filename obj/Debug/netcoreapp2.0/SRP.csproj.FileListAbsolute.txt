@@ -1,0 +1,10 @@
+C:\Users\LENOVO LEGION\Documents\DotNet\SRP\bin\Debug\netcoreapp2.0\SRP.deps.json
+C:\Users\LENOVO LEGION\Documents\DotNet\SRP\bin\Debug\netcoreapp2.0\SRP.runtimeconfig.json
+C:\Users\LENOVO LEGION\Documents\DotNet\SRP\bin\Debug\netcoreapp2.0\SRP.runtimeconfig.dev.json
+C:\Users\LENOVO LEGION\Documents\DotNet\SRP\bin\Debug\netcoreapp2.0\SRP.dll
+C:\Users\LENOVO LEGION\Documents\DotNet\SRP\bin\Debug\netcoreapp2.0\SRP.pdb
+C:\Users\LENOVO LEGION\Documents\DotNet\SRP\obj\Debug\netcoreapp2.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\Documents\DotNet\SRP\obj\Debug\netcoreapp2.0\SRP.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\Documents\DotNet\SRP\obj\Debug\netcoreapp2.0\SRP.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\Documents\DotNet\SRP\obj\Debug\netcoreapp2.0\SRP.dll
+C:\Users\LENOVO LEGION\Documents\DotNet\SRP\obj\Debug\netcoreapp2.0\SRP.pdb
